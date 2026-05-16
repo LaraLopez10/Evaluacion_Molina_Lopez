@@ -1,0 +1,21 @@
+{
+  "name": "evaluacion_molina_lopez",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaraLopez10/Evaluacion_Molina_Lopez.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LaraLopez10/Evaluacion_Molina_Lopez/issues"
+  },
+  "homepage": "https://github.com/LaraLopez10/Evaluacion_Molina_Lopez#readme"
+}
